@@ -1,0 +1,29 @@
+.start{
+    height: 90vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.first{
+    height: 40vh;
+    width: 50vw;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.counter{
+    color: white;
+}
+button{
+    background-color: rgb(144, 115, 77);
+    height: 5vh;
+    width: 7vw;
+}
+.button{
+    display: flex;
+    gap: 2vw;
+    justify-content: center;
+}
